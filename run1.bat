@@ -1,0 +1,1 @@
+javac -cp "lib\mariadb-java-client-3.4.0.jar" 
